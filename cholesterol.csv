@@ -1,4 +1,4 @@
-SEQN of DEMO_J,Gender,Age,Household Number,Annual Household income,Systolic_bp,Diastolic_bp,Weight(kg),BMI,Total_cholesterol(mg/dL),Health_insurance,amount_eatingout,amount_delivery
+SEQN of DEMO_J,Gender,Age,Household Number,Annual Household income,Systolic_bp,Diastolic_bp,weight(kg),BMI,Total_cholesterol(mg/dL),Health_insurance,amount_eatingout,amount_delivery
 100424,2,73,4,15,176,86,60.6,23.4,,Yes,5200,150
 100545,2,15,4,15,108,64,66.3,23.9,110,Yes,5200,150
 102807,1,79,4,15,128,64,130,39.2,156,Yes,5200,150
